@@ -1,0 +1,17 @@
+18  
+  
+Figura 2.10 – Cenário 2 
+2.7.3 Organização – Nuvem 
+Esta situação representa uma empresa que utilize os  serviços da nuvem para 
+resolver processos internos, sendo que a figura 2.1 1 descreve este cenário. 
+ 
+Figura 2.11 – Cenário 3 
+Esta provavelmente é a forma de utilização mais com um da computação em 
+nuvem porque proporciona um maior controle pela ins tituição. 
+Os usos mais comuns envolvem o armazenamento de bac kups na nuvem ou 
+armazenamento de dados raramente utilizados; uso de  máquinas virtuais para trazer 
+processadores on-line para momentos de alta demanda  de recursos e obviamente o 
+descarte das mesmas quando a demanda diminuir; uso de aplicações SaaS, como 
+email, agenda, etc; e ainda utilização de bases de dados como parte de uma 
+aplicação o que permite um fácil compartilhamento d estas bases com parceiros. 
+ 
